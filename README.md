@@ -16,7 +16,7 @@ This repository contains all of my web development projects—from learning exer
 
 Since I’m currently balancing university classes and bootcamps, I’m gradually developing and committing updates to this project.
 
-[There current website can be found here](https://wyndhamvet.com.au/)
+[Their current website can be found here](https://wyndhamvet.com.au/)
 
 ### ✅ Planned Features & Progress
 
