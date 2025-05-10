@@ -9,6 +9,10 @@ This repository contains all of my web development projects—from learning exer
 ---
 
 ## 🎯 Project Vet – *Work in Progress*
+Skills Used :  
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 **Project Vet** is a complete overhaul of an outdated veterinary clinic website based in Australia. As part of my development learning journey, I'm applying modern **UI/UX best practices** and **frontend development** techniques to rebuild the site from scratch.
 
