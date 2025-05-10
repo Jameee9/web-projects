@@ -1,5 +1,3 @@
----
-
 # Web Projects
 
 This repository contains all of my web development projects—from learning exercises to personal pet projects.
@@ -32,4 +30,3 @@ Since I’m currently balancing university classes and bootcamps, I’m graduall
 
 [Project Vet](https://jameee9.github.io/web-projects/project_vet/)
 
----
