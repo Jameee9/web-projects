@@ -1,6 +1,6 @@
 # Web Projects
 
-This repository contains all of my web development projects—from learning exercises to personal pet projects.
+This repository contains all of my web development projects from learning exercises to personal pet projects.
 
 ![Status](https://img.shields.io/badge/status-in_progress-yellow)
 ![License](https://img.shields.io/badge/license-MIT-blue)
